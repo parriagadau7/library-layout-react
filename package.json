@@ -36,7 +36,7 @@
   },
   "peerDependencies": {
     "prop-types": "^15.7.2",
-    "react": "^16.13.1",
+    "react": ">= 16 < 17",
     "react-router-dom": "^5.2.0",
     "reactstrap": "^8.4.1"
   }
